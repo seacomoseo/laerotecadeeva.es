@@ -1,0 +1,45 @@
+anchor: Ofertas y Regalos
+subtitle: Ofertas y Regalos
+color: white
+gradient: ''
+description: |
+  ¡¡Vamos a tirar la casa por la ventana!!
+  {.h3}
+
+  Entre todas las que compréis vamos a hacer un sorteo para que una de vosotras se lleve en el \
+  momento un juguetito a casa, y esto no es todo, tenemos más regalos...
+more:
+  align: center
+  opacity: 100
+rows:
+- type: steps
+  design:
+    border: invert
+  items:
+  - title: Ofertas, kits y muchos regalos…
+    description: |
+      Como por ejemplo, los varios regalos que puedes conseguir como anfitriona de una de nuestras reuniones
+  - title: En tu casa o en la mía...
+    description: |
+      Nuestras reuniones, realizadas tanto en tu casa como en nuestro salón de La EROTECA son totalmente GRATIS.
+  - title: y sin prisas...
+    description: |
+      Debéis asistir, con las tareas diarias hechas para disfrutar sin prisas, así os dará tiempo a todo y le podréis sacar el máximo provecho a la reunión
+
+- type: columns
+  design:
+    num: 3
+    align_x: flex-end
+    align_y: center
+  items:
+  - span: 2
+    description: |
+      > Esta reunión va a ser nuestro momento, TU MOMENTO, nos lo merecemos… \
+      > Luego habrá tiempo de seguir con la rutina diaria
+    more:
+      align: left
+  - link: /#contacto
+    label: ¡QUIERO UNA REUNIÓN!
+    more:
+      align: right
+      licon: none

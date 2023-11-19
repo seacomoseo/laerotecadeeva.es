@@ -1,0 +1,30 @@
+title: Productos
+subtitle: Disfruta con las novedades <br> que traemos para ti
+bg: fondo-alt.jpg
+size: md
+rows:
+- type: columns
+  design:
+    num: 5
+    num_xs: true
+  items:
+  - title: Anal
+    image: productos-anal.jpg
+  - title: Bondage y Fetiche
+    image: productos-bondage-y-fetiche.jpg
+  - title: Cosmética afrodisiaca
+    image: productos-cosmetica-afrodisiaca.jpg
+  - title: Higiene y Salud
+    image: productos-higiene-y-salud.jpg
+  - title: Juegos
+    image: productos-juegos.jpg
+  - title: Juguetes para Chicas
+    image: productos-juguetes-para-chicas.jpg
+  - title: Juguetes para Chicos
+    image: productos-juguetes-para-chicos.jpg
+  - title: Lencería Mujer
+    image: productos-lenceria-mujer.jpg
+  - title: Parejas
+    image: productos-parejas.jpg
+  - title: 50 Sombras de Grey
+    image: productos-50-sombras-de-grey.jpg

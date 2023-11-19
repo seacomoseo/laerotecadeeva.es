@@ -1,0 +1,35 @@
+logo: ''
+color: black
+screen_sticky: 768
+size_sticky: ''
+articles_sticky: false
+transparent: true
+hide_anchors: false
+hide_icons: true
+show_modals: false
+show_blog_auto: false
+show_products_auto: false
+show_taxonomies_auto: false
+search: false
+google_translate: false
+langs_in_more: false
+langs_out: true
+callnow_active: true
+callnow_buttons:
+- type: whatsapp
+  label: 659 620 967
+normal:
+- label: La Eroteca
+  link: /la-eroteca/
+- label: Reuniones Eróticas
+  link: /reuniones-eroticas/
+- label: Consulterapia
+  link: /consulterapia/
+- label: Talleres
+  link: /talleres/
+- label: Noticias
+  link: /blog/
+- label: Contacto
+  link: /#contacto
+  button: link
+more: []

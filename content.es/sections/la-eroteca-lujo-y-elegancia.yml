@@ -1,0 +1,21 @@
+anchor: Lujo y Elegancia
+bg: mandala.jpg
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+    align: left
+  items:
+  - image: la-eroteca-lujo-y-elegancia.jpg
+  - description: |
+      Lujo y Elegancia
+      {.h1 .title}
+
+      Además de lo habitual, la tienda cuenta con algo extraordinario.
+
+      El lujo y la elegancia van de la mano de una selección de colecciones de corsets, fustas, máscaras o esposas para “mantener a raya al amante”, como proclama **LA EROTECA**.
+
+      Mobiliario catalogado entre “el arte y el diseño”, exposiciones temporales de arte: pintura, escultura. Exposición de Joyas Kamasutra etc…
+
+      [btn Ver productos](/shop/)

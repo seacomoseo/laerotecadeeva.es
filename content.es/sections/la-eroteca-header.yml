@@ -1,0 +1,9 @@
+anchor: La Eroteca de Eva
+subtitle: Mucho más que una tienda erótica
+image: logo.svg
+bg: escaparate.jpg
+description: |
+  [btn icon-plus Más](#principal)
+more:
+  image_min: 18
+  image_max: 26

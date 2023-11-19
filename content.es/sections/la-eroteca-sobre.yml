@@ -1,0 +1,37 @@
+id: sobre
+title: Sobre La Eroteca
+subtitle: El rincón más erótico de Murcia ubicado en el corazón del casco antiguo
+color: white
+gradient: ''
+description: |
+  LA EROTECA se define por un lujo sutil y un erotismo elegante, alejado de burdas connotaciones pornográficas.
+more:
+  align: center
+  opacity: 100
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+    align: left
+  items:
+  - order: 1
+    bg: la-eroteca-interior-04.jpg
+    more:
+      align_y: strech
+  - order: 2
+    description: |
+      LA EROTECA ayuda a la conservación de nuestro patrimonio, manteniendo en el mejor estado, este yacimiento arqueológico, declarado como uno de los 7 yacimientos más importantes de la Región de Murcia.
+
+      Disfrutarás de una exposición, planteada de forma diferente, LA EROTECA, permite un recorrido por el extenso mundo del erotismo, informativo y divertido a partes iguales. Concebido por sexólogos y diseñadores de medios, la exposición se desarrolla en torno al tema amor y sexualidad en diferentes estancias de una vivienda Árabe del S.XIII patrimonio de Murcia.
+  - order: 4
+    bg: la-eroteca-interior-12.jpg
+    more:
+      align_y: strech
+  - order: 3
+    description: |
+      Entre estas piezas únicas que seducen a los clientes y bajo la intimidad que transmiten los cálidos muros de esta mágica casa árabe, y su respetuosa decoración, la sexóloga Eva Camacho os guiará con TIPS o trucos básicos para disfrutar del revoltijo de sábanas. Uno de los básicos es “quererse mucho”; el otro, “pasárselo bien”.
+
+      > LA EROTECA ofrece “abrir mentes, desmontar mitos y borrar tabúes”
+
+      Derribar estos límites sexuales es lo que hacen los instructores de LA EROTECA en medio de un ambiente íntimo y cómodo. Profundizaremos en los entresijos de la sexualidad hasta deslizarse en el apartado del uso de juguetes eróticos y Cosmética. La oferta es muy amplia para la mujer, más reducida para el hombre, pero -sin duda- todos los productos fomentan el juego en la pareja.

@@ -1,0 +1,65 @@
+anchor: La Eroteca de Eva - Sex Shop en Murcia - Tienda Erótica
+more:
+  full_screen: true
+  padding_hide: true
+rows:
+- type: columns
+  design:
+    num: 1
+    align: left
+    gap: 0
+    opacity: 30
+    slider: true
+    interval: 10
+  items:
+  - subtitle: El órgano sexual más grande es la piel
+    image: logo-alt.svg
+    bg: escaparate.jpg
+    description: |
+      [btn ¡Descubre más!](#principal)
+    more:
+      align: center
+  - bg: pasion.jpg
+    description: |
+      Pasión
+      {.subtitle}
+
+      Aprende a reavivarla
+      {.h1 .title}
+
+      El órgano sexual más grande es la PIEL.
+
+      Las caricias, los juegos, la complicidad y la conexión emocional
+      son más importantes que la lubricación o dureza de unos órganos.
+
+      Reeduca y mejora tu vida sexual en nuestros talleres dirigidos por una Sexóloga Titulada.
+
+      [btn ¡Descubre más!](/talleres/ "Talleres Eróticos")
+  - bg: fondo.jpg
+    description: |
+      Reuniones
+      {.h1 .title}
+
+      Eróticas
+      {.subtitle}
+
+      Disfruta de reuniones eróticas especialmente divertidas y educativas,
+      descubriendo un mundo de sensaciones de la mano de asesoras sexuales, formadas por una Sexóloga Titulada.
+
+      Un método diferente que combina la diversión con el aprendizaje.
+
+      [btn ¡Descubre más!](/reuniones-eroticas/ "Reuniones Eróticas")
+  - bg: placer.jpg
+    description: |
+      Placer
+      {.subtitle}
+
+      Tu sexualidad es tuya
+      {.h1 .title}
+
+      Como ser humano, mereces una vida sexual plena y satisfactoria.
+
+      Tu sexualidad te pertenece y, para que puedas explotarla,
+      te ofrecemos una selección de los mejores artículos eróticos a los precios más atractivos.
+
+      [btn ¡Descubre más!](#principal)

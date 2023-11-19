@@ -1,0 +1,31 @@
+anchor: Fotos
+size: md
+description: |
+  Ven, visítanos y…
+  {.subtitle}
+
+  Mira lo que encontrarás
+  {.h1}
+
+  Aunque estas fotos pueden servirte para hacerte una idea de lo que encontrarás, nada puede superar las sensaciones que experimentarás al venir a hacernos una visita.
+
+  **¡No te lo pienses!**
+more:
+  align: center
+rows:
+- type: gallery
+  design:
+    max: 99
+    num: 3
+    alt: false
+    wrap: false
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - la-eroteca-interior-01.jpg
+  - la-eroteca-interior-00.jpg
+  - la-eroteca-interior-08.jpg
+  - la-eroteca-interior-09.jpg
+  - la-eroteca-exterior-fachada.jpg
+  - la-eroteca-lujo-y-elegancia.jpg

@@ -1,0 +1,42 @@
+anchor: Filosofia
+title: Nuestra Filosofía
+color: white
+gradient: ''
+description: |
+  Es proporcionar herramientas dentro del mundo de la erótica tanto a hombres como a mujeres para así disfrutar más de su sexualidad, INDIVIDUAL O EN PAREJA, independientemente de la edad y la condición sexual.
+
+  Está enfocada principalmente a las mujeres, pero siempre teniendo en cuenta a los hombres como parte de la comunicación sexual, es decir, también es para parejas.
+more:
+  opacity: 100
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+    align: left
+  items:
+  - order: 1
+    image: sensualidad.png
+  - order: 2
+    description: |
+      Para la mujer la sexualidad constituye un estado
+      {.h2}
+
+      Tenemos altibajos debido al estrés, a nuestro ciclo hormonal, las actividades cotidianas, etc… de ahí que muchas veces no tengamos ganas de tener sexo.
+
+      Para ellos la sexualidad, en general, es una actividad que está en alza siempre
+      {.h2}
+
+      Esto quiere decir que es constante y por eso, casi siempre, tienen ganas de marcha. 😉
+
+      Aunque cada vez más, se dan casos, entre el público masculino, de falta de apetito sexual debido al estrés, o por alguna medicación.
+    more:
+      color: dark
+  - order: 3
+    description: |
+      > Hombres y mujeres hablamos un lenguaje diferente en lo que a sexo se refiere, y tenemos que aprender el uno del otro
+  - order: 4
+    description: |
+      Por eso estas reuniones son tan importantes, porque ayudan a la comunicación entre la pareja, y sirven para romper los típicos tabúes o prejuicios, que hoy por hoy, cada vez son menos
+
+      Tendréis nuevas ideas y herramientas al alcance de vuestra mano para romper con la monotonía.

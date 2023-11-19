@@ -1,0 +1,32 @@
+anchor: Te ofrecemos
+color: white
+gradient: ''
+more:
+  opacity: 100
+rows:
+- type: columns
+  design:
+    num: 4
+    align_y: strech
+    align: left
+    button: hide
+  items:
+  - span: 2
+    description: |
+      Asesoramiento
+      {.subtitle}
+
+      Personalizado y privado
+      {.h1 .title}
+
+      Somos una empresa que contribuye a la comunicación sexual entre hombres y mujeres enriqueciendo y complementando las relaciones sexuales.
+
+      Hacemos un asesoramiento sexual personalizado, privado y confidencial, asesoramos para que hagáis un pedido chulo y coherente, no comprar por comprar.
+
+      > Empieza a preparar tu nuevo ajuar, <br> el ajuar erótico...
+    more:
+      align_y: center
+  - link: la-eroteca-interior-09.jpg
+    bg: la-eroteca-interior-09.jpg
+  - link: la-eroteca-interior-08.jpg
+    bg: la-eroteca-interior-08.jpg

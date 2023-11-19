@@ -1,0 +1,32 @@
+baseURL: https://laerotecadeeva.es
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/laerotecadeeva/laerotecadeeva.es
+  netlify_name: laerotecadeeva
+  netlify_id: 422558be-d59b-41f3-898b-b4cf71258fdc
+  drive_link: https://drive.google.com/file/d/11rhtyspUa37IFDEbHvR3rdYuc5OkdAnK
+  drive_mails: eva.tac@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores

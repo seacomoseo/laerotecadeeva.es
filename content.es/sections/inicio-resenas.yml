@@ -1,0 +1,35 @@
+title: Reseñas
+subtitle: Esto dice nuestra clientela
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    opacity: 10
+    slider: true
+  items:
+  - title: Gaspar L.
+    description: |
+      Un excelente lugar para descubrir. Eva una gran asesora y sexóloga que te orienta sobre todas las dudas que puedas tener. Muy recomendable. Un establecimiento muy céntrico, escondido en una casa árabe del siglo XII, que merece la pena visitar.
+  - title: Irene J.
+    description: |
+      Si necesitas cualquier cosa o te la imaginas seguro que Eva tiene lo que vas buscando. Súper discreta y agradable. He visitado varías tiendas de artículos sexuales pero no había visto ninguna con tanta variedad. Un 10 de 10!
+  - title: Alberto P.
+    description: |
+      Eva ha hecho de nuestra primera visita por su tienda super amena, hemos estado como en casa y ha sido súper simpática y agradable con nosotros. El mejor sitio de murcia para poder fantasear y comprar lo que te imagines porque seguro que ella lo tiene.
+  - title: Gabriela M.
+    description: |
+      Muy buen sitio y muy buena mujer. Siempre me han dado algo de vergüenza comprar en sitios pero me habló con tanta alegría y tranquilidad que me hizo sentir a gusto.
+  - title: Señor C.
+    description: |
+      Servicio impecable, mucha variedad de productos y Eva me recibió amablemente a pesar de ir fuera del horario de apertura. Muy profesional y atenta con mis necesidades, tuve la tranquilidad de pensar que le podía preguntar cualquier cosa.
+  - title: Albina T.
+    description: |
+      El sitio me ha encantado ❤ La chica que trabaja allí me ha ayudado muchísimo  con la compra. El sitio es encantador y  hay mucha variedad de productos de buena calidad.
+- type: columns
+  items:
+  - description: |
+      Hay más reseñas y puedes añadir la tuya:
+
+      [btn-light icon-star La Eroteca de Eva](https://g.page/r/CURrDHO0sxNCEAI/review "noindex")
+      [btn-alt   icon-star Le Petit Eroteca ](https://g.page/r/CS5SgzVxbadrECA/review "noindex")

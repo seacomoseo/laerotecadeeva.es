@@ -1,0 +1,27 @@
+anchor: Reuniones Eróticas
+bg: reuniones-eroticas.jpg
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+  items:
+  - order: 2
+    bg: reuniones.jpg
+    more:
+      align_y: strech
+  - order: 1
+    description: |
+      Pásalo bien con tus amigas mientras aprendes a <br> disfrutar de la vida en nuestras
+      {.subtitle}
+
+      Reuniones Eróticas
+      {.h1 .title}
+
+      Después de más de 8 años de experiencia organizando con éxito reuniones Tapersex, puedo obfrecerte un concepto distinto. Aprende, diviértete y descubre, con tus amigas o pareja, nuevas sensaciónes a la vez que rompes absurdos tabúes.
+
+      **Eva Camacho, Sexóloga Titulada**.
+
+      [btn ¡Infórmate aquí!](/reuniones-eroticas/)
+    more:
+      align: left

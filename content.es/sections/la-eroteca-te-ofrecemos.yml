@@ -1,0 +1,30 @@
+anchor: Te ofrecemos
+color: white
+gradient: ''
+more:
+  opacity: 100
+rows:
+- type: columns
+  design:
+    num: 4
+    align_y: strech
+    align: left
+    button: hide
+  items:
+  - span: 2
+    description: |
+      Te ofrecemos
+      {.subtitle}
+
+      Un universo de sensaciones
+      {.h1 .title}
+
+      LA EROTECA ha querido profundizar en las sensaciones de sus visitantes y ha realizado una breve encuesta entre éstos a nivel privado y el principal motivo que esgrimen los clientes a la hora de decantarse por LA EROTECA es “La cercanía, el trato amable y el conocer de primera mano la amplia variedad de alternativas que existen para cada caso”.
+
+      > LA EROTECA... Aire fresco
+    more:
+      align_y: center
+  - link: la-eroteca-interior-09.jpg
+    bg: la-eroteca-interior-09.jpg
+  - link: la-eroteca-interior-08.jpg
+    bg: la-eroteca-interior-08.jpg

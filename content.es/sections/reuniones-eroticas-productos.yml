@@ -1,0 +1,48 @@
+anchor: Productos
+title: Complementa la sexualidad
+subtitle: Con nuestra amplia gama de productos
+bg: fondo-alt.jpg
+size: md
+rows:
+- type: columns
+  design:
+    num: 2
+    grow: true
+    align: left
+  items:
+  - description: |
+      Lencería súper-sexy y exclusiva, juguetería erótica, aceites y cremas de masaje… Lubricantes, perfumes y mucho más…
+
+      Todo esto explicado dentro de un contexto educativo a la par que divertido.
+  - description: |
+      Uno de los productos favoritos y súper sencillo, pero tremendamente sensual es, nuestro gel estimulante que facilita las relaciones sexuales, aumentando espectacularmente la sensibilidad en las zonas erógenas…
+
+      También nuestro aceite de masaje erótico que se calienta al soplar.
+  - span: 2
+    description: |
+      Con nuestra mejor selección de cosméticos, vamos a des-genitalizar la sexualidad a través de los cinco sentidos ya que no olvidéis que el órgano sexual más grande es la PIEL.
+- type: columns
+  design:
+    num: 5
+    num_xs: true
+  items:
+  - title: Anal
+    image: productos-anal.jpg
+  - title: Bondage y Fetiche
+    image: productos-bondage-y-fetiche.jpg
+  - title: Cosmética afrodisiaca
+    image: productos-cosmetica-afrodisiaca.jpg
+  - title: Higiene y Salud
+    image: productos-higiene-y-salud.jpg
+  - title: Juegos
+    image: productos-juegos.jpg
+  - title: Juguetes para Chicas
+    image: productos-juguetes-para-chicas.jpg
+  - title: Juguetes para Chicos
+    image: productos-juguetes-para-chicos.jpg
+  - title: Lencería Mujer
+    image: productos-lenceria-mujer.jpg
+  - title: Parejas
+    image: productos-parejas.jpg
+  - title: 50 Sombras de Grey
+    image: productos-50-sombras-de-grey.jpg

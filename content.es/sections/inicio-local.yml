@@ -1,0 +1,32 @@
+title: La Eroteca
+subtitle: Un espacio erótico exclusivo emplazado en unas antiguas ruinas árabes
+bg: fondo-alt.jpg
+size: md
+rows:
+
+- type: gallery
+  design:
+    max: 99
+    num: 3
+    alt: false
+    wrap: false
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - la-eroteca-exterior-06.jpg
+  - la-eroteca-exterior-10.jpg
+  - la-eroteca-exterior-16.jpg
+  - la-eroteca-interior-09.jpg
+  - la-eroteca-interior-04.jpg
+  - la-eroteca-interior-12.jpg
+
+- type: columns
+  items:
+  - description: |
+      La Eroteca de Tapersex es un espacio exclusivo y mágico donde podrás encontrar los últimos productos de juguetería erótica, todos ellos de máxima calidad, mientras disfrutas recorriendo un lugar íntimo emplazado en unas antiguas ruinas árabes.
+
+      Descubrirás los mejores productos y podrás obtener asesoramiento especializado de manos de nuestra sexóloga titulada, quien podrá guiarte en la elección de los mejores productos para tí y/o tu pareja.
+
+      [btn ¡Descubre más!](/la-eroteca/)
+      [btn Trabaja con nosotros](/#contacto)

@@ -1,0 +1,79 @@
+title: Contacto
+subtitle: ¡Sin compromiso!
+button: link
+size: sm
+rows:
+- type: contact
+  data:
+  - type: h3
+    label: La Eroteca de Eva
+  - type: schedule
+    days: Lunes a Sábados
+    hours: 11:00 - 14:00
+  - type: br
+  - type: phone
+    label: 868 045 569
+  - type: address
+    active: true
+    name: La Eroteca de Eva
+    streetAddress: Bulevar Adarve, C. Platería, 31
+    postalCode: 30001
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.1300796,37.9858912]}'
+    button: light
+
+- type: contact
+  data:
+  - type: h3
+    label: Le Petit Eroteca
+  - type: schedule
+    days: Lunes a Sábados
+    hours: 17:00 - 20:30
+  - type: br
+  - type: phone
+    label: 868 054 998
+  - type: address
+    active: true
+    name: Le Petit Eroteca by Eva Camacho
+    streetAddress: C. San Lorenzo, 10
+    postalCode: 30001
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.1281567,37.9860424]}'
+    button: light
+
+- type: contact
+  data:
+  - type: phone
+    label: 659 620 967
+  - type: whatsapp
+    label: 659 620 967
+  - type: mail
+    label: info@laerotecadeeva.es
+    button: alt
+  form:
+    fill_inputs: false
+    items:
+    - type: text
+      name: Nombre
+      placeholder: ¿Cómo te llamas?
+      required: true
+    - type: email
+      name: Email
+      placeholder: ¿Cual es tu email?
+      required: true
+    - type: tel
+      name: Teléfono
+      placeholder: ¿Cual es tu teléfono?
+      required: false
+    - type: textarea
+      name: Mensaje
+      placeholder: ¿Y qué te cuentas?
+      required: true
+  map:
+    active: true
+    link: https://www.google.com/maps/d/u/0/edit?mid=1bQHhl8cPQ5yZN8JngVxKchInpQokEvI
+    iframe: https://www.google.com/maps/d/u/0/embed?mid=1bQHhl8cPQ5yZN8JngVxKchInpQokEvI&noprof=1&ehbc=000000

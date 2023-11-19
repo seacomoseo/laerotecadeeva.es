@@ -1,0 +1,60 @@
+anchor: Consulterapia
+color: white
+gradient: ''
+more:
+  opacity: 100
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+    align: left
+  items:
+  - order: 1
+    description: |
+      Entre estos problemas destaca
+      {.title .h5}
+
+      La falta de apetito sexual
+      {.subtitle}
+
+      Esto hasta no hace mucho tiempo atrás se daba sólo entre mujeres, aunque debido a la situación económica actual, cada vez se dan más casos entre el género masculino. **Ambos acuden a LA EROTECA en busca de solución**. Juegos, aceites, perfumes, lencería…. Son algunas de las alternativas que se ofrecen.
+
+      Otros de los problemas más recurrentes que se encuentran los responsables de LA EROTECA es el de **la falta de lubricación**; hoy en día existe una amplia variedad de productos específicos para cada caso que ayuda a solucionarlo.
+
+      El dolor a la hora de tener relaciones, también es alguno de los problemas. Se trata de un trastorno que le afecta principalmente a la mujer y en el que además de mucha paciencia se necesita un ejercicio constante.
+  - order: 2
+    bg: eva-camacho-sexologa.jpg
+    more:
+      align_y: strech
+  - order: 4
+    description: |
+      Si bien es cierto que siempre se deriva a profesionales médicos para tratar cada caso, descartando problemas derivados de la parte física exclusivamente, el principal argumento que responden los pacientes ante la pregunta: ”¿consultarías tu problema con un profesional?” es que
+
+      > Hay pocos especialistas en sexualidad, no sabes o no conoces dónde acudir. El primer motivo es la vergüenza, crees que lo que te pasa sólo te ocurre a ti. Los profesionales licenciados tratan desde un aspecto puramente médico el problema, sin la suficiente empatía. Parece que soy la única mujer que sufro de mi trastorno cuando luego entras en foros o tiendas especializadas te das cuenta que eres una de las muchas que lo sufren y lo han
+      <cite>Esther desde Almería</cite>
+  - order: 3
+    bg: consulterapia-miradas.jpg
+    more:
+      align_y: strech
+  - order: 5
+    description: |
+      Por otro lado, otra de las cuestiones más planteadas en LA EROTECA, es la mujer que se encuentra en periodo de embarazo y recurre a nosotros para pedir productos adecuados para no perder su vida sexual.
+
+      > La realidad es que en su mayoría prefieren no tener relaciones por precaución, muchas buscan alternativas mini para ellas y para sus parejas como la estimulación o el juego erótico
+
+      Y en LA EROTECA, encuentran que superamos sus expectativas, ya que estamos especializados en suelo pélvico, con lo cual además de no caer en la rutina con nuestra gran variedad de complementos sexuales, también aprenden a mejorar su salud sexual, con los ejercicios apropiados, asesorados por la sexóloga Eva Camacho.
+  - order: 6
+    bg: consulterapia-juegos-pareja.jpg
+    more:
+      align_y: strech
+
+- type: columns
+  items:
+  - description: |
+      Pide cita o consulta cualquier duda sin compromiso
+      {.subtitle}
+
+      [btn Contacto](/#contacto)
+    more:
+      align: center

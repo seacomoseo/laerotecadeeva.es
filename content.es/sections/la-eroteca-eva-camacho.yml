@@ -1,0 +1,39 @@
+anchor: Eva Camacho
+color: white
+gradient: ''
+more:
+  opacity: 100
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+    align: left
+  items:
+  - description: |
+      Encantada de conocerte
+      {.h2 .title}
+
+      Eva Camacho
+      {.subtitle}
+
+      Emprendedora sexóloga murciana, que junto a un grupo de asesoras sexuales especializadas en reuniones eróticas, dan vida a un nuevo concepto:
+
+      > La idea de LA EROTECA nace en 2013, tras 5 años de bagaje en consulta, reuniones y salones eróticos por toda España.
+
+      Nuestra larga experiencia hizo detectar una oportunidad revolucionaria en el mundo de las tiendas eróticas, que está encajando en España con muchísima aceptación.
+  - order: -1
+    bg: eva-camacho.jpg
+    more:
+      align_y: strech
+  - span: 2
+    description: |
+      > Los clientes encuentran en LA EROTECA un ambiente de confianza y una selección de productos que les puede ayudar a superar su problema con la pareja, complementar su sexualidad o descubrir experiencias nuevas de su sexualidad tanto individual como en pareja, en definitiva, es un referente para solucionar dudas sexuales.
+  - description: |
+      Aquí podrás encontrar asesoramiento sexual personalizado y privado, donde tenemos en cuenta, el sexo, la edad, estado civil, edad de los hijos, presupuesto, uso de cosmética, primera toma de contacto con productos eróticos o para complementar tu ajuar erótico y así enriquecer más tu sexualidad.
+
+      Y es que todavía hay muchos mitos sobre el sexo, aunque “cada vez menos, las nuevas generaciones vienen respirando AIRE FRESCO, pero aún queda en la sociedad esos tabúes de una educación cerrada”, así que nos sentimos ilusionados con las posibilidades de cambio que puede propiciar este nuevo concepto de negocio.
+  - description: |
+      Según los últimos datos recogidos tanto por las asesoras de las reuniones eróticas Tod@s a Cien y en los Salones Eróticos en los que hemos participado, como en nuestra Consulta de sexología:
+
+      > En los últimos años se han multiplicado las consultas sobre productos que ayuden en las relaciones sexuales entre parejas

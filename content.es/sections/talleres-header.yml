@@ -1,0 +1,23 @@
+anchor: Talleres - La Eroteca de Eva
+bg: talleres-sexologia.jpg
+more:
+  full_screen: true
+rows:
+- type: columns
+  design:
+    num: 2
+    color: white
+    align_y: center
+    align_x: left
+    align: left
+  items:
+  - description: |
+      Talleres sexuales de La Eroteca
+      {.subtitle}
+
+      donde descubriréis los secretos de la sexualidad con el objetivo de
+
+      > Normalizar el sexo y conocer su parte más lúdica
+
+      [btn-light Más información](#principal)
+      [btn ¡Reserva tu plaza!](/#contacto)

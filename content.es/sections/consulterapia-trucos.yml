@@ -1,0 +1,30 @@
+anchor: Trucos
+subtitle: Trucos básicos para disfrutar
+color: white
+gradient: ''
+description: |
+  Aquí van un par de trucos, que puedes poner en práctica, ya.
+more:
+  align: center
+  opacity: 100
+rows:
+- type: steps
+  design:
+    border: invert
+  items:
+  - title: ¿Cuánto tiempo hace que no miras fíjamente a los ojos de tu pareja?
+    description: |
+      De manera de búsqueda, de curiosidad, de ver en su interior...
+
+      Hacer esto durante cinco minutos os ayudará a reavivar la llama entre vosotros...
+
+      ¡Pruébalo, os sorprenderá!
+    # icon: 1
+  - title: 'Recurre a la zona erógena más potente del ser humano: el cerebro'
+    description: |
+      El manejo de las fantasías es una herramienta fundamental para ahuyentar la típica desconexión mental femenina, como el triste ejemplo en el que una mujer recuerda que tiene que pintar el techo mientras mantiene relaciones con su marido.
+
+      > Puedes pensar en el panadero o en el bombero o en cualquier cosa que te ayude a regresar al momento sexual en el que te encuentras
+
+      La imaginación se erige finalmente como el mejor estímulo sexual. O casi.
+    # icon: 2
