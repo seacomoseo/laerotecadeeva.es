@@ -45,29 +45,35 @@
 
 // Header Animations
 
-// @keyframes logo-drop {
-//   0% {
-//     transform: scale(3);
-//     opacity: 0;
-//   }
-//   100% {
-//     transform: scale(1);
-//     opacity: 1;
-//   }
-// }
+@keyframes show-down {
+  0% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(3rem);
+    opacity: 0;
+  }
+}
 #body-inicio #header {
-  // .image {
-  //   transform-origin: center;
-  //   animation: logo-drop 1s 0s both;
-  // }
-  @mixin show-up($delay) {
-    animation: show-up .5s (.5 + .25s * $delay) both;
+  .column {
+    --show-animation-name: show-down;
+    .image,
+    .subtitle,
+    .buttons,
+    .description > * {
+      animation: var(--show-animation-name) .5s 0s both;
+    }
   }
   .slider__item--active {
+    --show-animation-name: show-up;
+    @mixin show-up($delay) {
+      animation-delay: .25s * $delay;
+    }
     &.column--item-1 {
       .image    { @include show-up(0); }
       .subtitle { @include show-up(1); }
-      .buttons  {  @include show-up(2); }
+      .buttons  { @include show-up(2); }
     }
     &.column:not(.column--item-1) .description > {
       :nth-child(1) { @include show-up(0); }
