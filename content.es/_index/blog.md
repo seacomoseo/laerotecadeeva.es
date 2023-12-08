@@ -8,6 +8,6 @@ draft: false
 noindex: true
 translationKey: blog
 ---
-Puedes escuchar todas las entrevistas en Onda Cero aquí:
+Puedes escuchar todos los programa de Onda Cero donde aparece Eva Camacho aquí:
 
-[btn Entrevistas Eva Camacho en Onda Cero](https://www.ondacero.es/temas/eva_camacho-1)
+[btn Eva Camacho en Onda Cero](https://www.ondacero.es/temas/eva_camacho-1)
