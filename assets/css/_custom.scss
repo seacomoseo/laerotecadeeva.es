@@ -66,20 +66,20 @@
     }
   }
   .slider__item--active {
-    --show-animation-name: show-up;
-    @mixin show-up($delay) {
+    --show-animation-name: show-from;
+    @mixin show-from($delay) {
       animation-delay: .25s * $delay;
     }
     &.column--item-1 {
-      .image    { @include show-up(0); }
-      .subtitle { @include show-up(1); }
-      .buttons  { @include show-up(2); }
+      .image    { @include show-from(0); }
+      .subtitle { @include show-from(1); }
+      .buttons  { @include show-from(2); }
     }
     &.column:not(.column--item-1) .description > {
-      :nth-child(1) { @include show-up(0); }
-      :nth-child(2) { @include show-up(1); }
-      * {             @include show-up(2); }
-      :last-child {   @include show-up(3); }
+      :nth-child(1) { @include show-from(0); }
+      :nth-child(2) { @include show-from(1); }
+      * {             @include show-from(2); }
+      :last-child {   @include show-from(3); }
     }
   }
 }
