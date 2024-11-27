@@ -1,6 +1,6 @@
 logo: ''
 color: black
-screen_sticky: 768
+screen_sticky: 1024
 size_sticky: ''
 articles_sticky: false
 transparent: true
@@ -19,17 +19,24 @@ callnow_buttons:
 - type: whatsapp
   label: 659 620 967
 normal:
-- label: La Eroteca
-  link: /la-eroteca/
-- label: Reuniones Eróticas
-  link: /reuniones-eroticas/
-- label: Consulterapia
-  link: /consulterapia/
-- label: Talleres
-  link: /talleres/
-- label: Noticias
-  link: /blog/
-- label: Contacto
-  link: /#contacto
+- link: /
+  label: Inicio
+  anchor: Sex Shop en Murcia - Tienda Erótica
+- link: /la-eroteca/
+  label: La Eroteca
+  anchor: La Eroteca de Eva
+- link: /reuniones-eroticas/
+  label: Reuniones Eróticas
+  anchor: Reuniones Eróticas - Tapersex en Murcia
+- link: /consulterapia/
+  label: Consulterapia
+  anchor: Consulta de Terapia Sexual - Sexóloga en Murcia
+- link: /talleres/
+  label: Talleres
+  anchor: Talleres Sexuales en Murcia
+- link: /blog/
+  label: Noticias
+- link: /#contacto
+  label: Contacto
   button: link
 more: []
