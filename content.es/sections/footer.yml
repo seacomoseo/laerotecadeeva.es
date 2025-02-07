@@ -1,5 +1,6 @@
 color: black
 description: |
+  - icon-phone [659 620 967](tel:+34659620967 "noindex")
   - icon-copyright      {{< internal-link index >}}
   - icon-scale-balanced {{< internal-link legal >}}
   - icon-shield-keyhole {{< internal-link privacy >}}
