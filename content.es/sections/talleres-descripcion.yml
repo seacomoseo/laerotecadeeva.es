@@ -12,16 +12,16 @@ rows:
     align_y: center
     align: left
   items:
-  - order: 0
-    description: |
-      Todos los jueves un taller diferente en un aforo limitado
-      {.subtitle}
+  # - order: 0
+  #   description: |
+  #     Todos los jueves un taller diferente en un aforo limitado
+  #     {.subtitle}
 
-      [btn-whatsapp icon-whatsapp Comunidad de WhatsApp](https://chat.whatsapp.com/GszCNIamHJhKwmanmcw2zq "nofollow")
-      [btn ¡Reserva tu plaza!](/#contacto)
-  - order: 0
-    description: |
-      En los talleres que impartimos en el salón de LA EROTECA nuestra sexóloga desgranará los básicos de la sexualidad podrás encontrar talleres como:
+  #     [btn-whatsapp icon-whatsapp Comunidad de WhatsApp](https://chat.whatsapp.com/GszCNIamHJhKwmanmcw2zq "[nofollow]")
+  #     [btn ¡Reserva tu plaza!](/#contacto)
+  # - order: 0
+  #   description: |
+  #     En los talleres que impartimos en el salón de LA EROTECA nuestra sexóloga desgranará los básicos de la sexualidad podrás encontrar talleres como:
   - order: 1
     bg: la-eroteca-interior-04.jpg
     more:

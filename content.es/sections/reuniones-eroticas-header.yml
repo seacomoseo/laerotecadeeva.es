@@ -1,13 +1,47 @@
 anchor: Reuniones Eróticas - Tapersex en Murcia
-image: icon.svg
 bg: reuniones-eroticas.jpg
-description: |
-  Las mejores
-  {.subtitle}
+# image: icon.svg
+# description: |
+#   Las mejores
+#   {.subtitle}
 
-  Reuniones Eróticas
-  {.title .h1}
+#   Reuniones Eróticas
+#   {.title .h1}
 
-  [btn icon-plus Más información](#principal)
-more:
-  image_max: 5
+#   [btn icon-plus Más información](#principal)
+# more:
+#   image_max: 5
+size: md
+
+rows:
+- type: columns
+  design:
+    num: 5
+    gap: 3
+    align_y: center
+  items:
+  - span: 2
+    image: icon.svg
+    description: |
+      Las mejores
+      {.subtitle}
+
+      Reuniones Eróticas
+      {.title .h1}
+
+    # [btn icon-plus Más información](#principal)
+  - span: 3
+    color: white
+    padding: 2
+    align: left
+    description: |
+      Promoción SuperTardeo
+      {.subtitle}
+
+      Reunión de Tapersex con entrada libre
+
+      Los sábados a las 13:00
+      {.h3 .jueves}
+
+      [btn-whatsapp-font-alt Comunidad de WhatsApp](https://chat.whatsapp.com/GszCNIamHJhKwmanmcw2zq "[nofollow]")
+      [btn-main-font-alt ¡Reserva tu plaza!](/#contacto)

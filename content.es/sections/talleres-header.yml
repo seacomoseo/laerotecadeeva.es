@@ -19,11 +19,11 @@ rows:
 
       > Normalizar el sexo y conocer su parte más lúdica
 
-      Todos los jueves a las 20:30
-      {.h3 .jueves}
-
-      ¡Cada semana un taller diferente!
-      {.subtitle}
-
-      [btn-whatsapp-font-alt Comunidad de WhatsApp](https://chat.whatsapp.com/GszCNIamHJhKwmanmcw2zq "nofollow")
+      [btn-whatsapp-font-alt Comunidad de WhatsApp](https://chat.whatsapp.com/GszCNIamHJhKwmanmcw2zq "[nofollow]")
       [btn-main-font-alt ¡Reserva tu plaza!](/#contacto)
+
+    # Todos los jueves a las 20:30
+    # {.h3 .jueves}
+
+    # ¡Cada semana un taller diferente!
+    # {.subtitle}
